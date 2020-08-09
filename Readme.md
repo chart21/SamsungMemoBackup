@@ -14,3 +14,4 @@ Steps to backup .memo files to txt:\
 2) Edit "txt to Google keep.py" and set insert Google account name and password\
 3) Run  "txt to Google keep.py"\
 In some cases you may need to insert your Google App password instead of the account password"# SamsungMemoBackup" 
+"# SamsungMemoBackup" 

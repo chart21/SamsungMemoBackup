@@ -1,0 +1,19 @@
+{
+  "name": "@chart21/samsung-memo-backup",
+  "version": "1.0.0",
+  "description": ".memo files can be found in the internal storage of your Samsung phone\\\r \\\r Steps to backup .memo files to txt:\\\r 1) Copy all .memo files to your PC\\\r 2) Edit \"memo to txt.py\" and set MEMO_PATH to the folder where the .memo files are located\\\r 3) set Result_PATH to the folder where you want to save the resulting .txt files\\\r 4) Run \"memo to txt.py\"\\\r \\Steps to backup .txt files to Google Keep:\\\r 1) Copy \"txt to Google keep.py\" to the folder where you save the .txt files\\\r 2) Edit \"txt to Google keep.py\" and set insert Google account name and password\\\r 3) Run  \"txt to Google keep.py\"\\\r In some cases you may need to insert your Google App password instead of the account password\"# SamsungMemoBackup\" \r \"# SamsungMemoBackup\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chart21/samsung-memo-backup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chart21/SamsungMemoBackup/issues"
+  },
+  "homepage": "https://github.com/chart21/SamsungMemoBackup#readme"
+}
